@@ -31,6 +31,8 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
+To run on with Live Server - download the Live Server extension in VS Code. 
+
 To run **Glowing** locally, run this command on your git bash:
 
 Linux and macOS:
